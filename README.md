@@ -1,4 +1,4 @@
-Project Title:- Git Installation, Configuration & First Repository
+Project Title:- Git Installation, Configuration & First direcory
 Name:-  Bablu Kumar
 
 
